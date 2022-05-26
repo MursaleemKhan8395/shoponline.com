@@ -1,15 +1,8 @@
-[![open issues](https://img.shields.io/github/issues/sudhay23/ShopOnline-Web-App)](https://github.com/sudhay23/ShopOnline-Web-App/issues) &nbsp;
-[![GitHub contributors](https://img.shields.io/github/contributors/sudhay23/ShopOnline-Web-App)](https://github.com/sudhay23/ShopOnline-Web-App/graphs/contributors) &nbsp;
-[![Discord](https://img.shields.io/discord/893535629277818950?color=blueviolet&label=discord&logo=discord&logoColor=white)](https://discord.gg/yhtkaawfNq) &nbsp;
-![GitHub](https://img.shields.io/github/license/sudhay23/ShopOnline-Web-App?color=9cf) &nbsp;
-[![Deploy to the Web](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost.yml/badge.svg)](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost.yml)
-[![Deploy to the Web on PR](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost_pr.yml/badge.svg)](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost_pr.yml)
-
 # ShopOnline - WebApp (Celebrating open-source 🎉)
 
 
 
--   We're **hosted** at [ShopOnline](https://shoponline-web.000webhostapp.com/) (We are currently facing some issues with registration/login, this will be fixed soon).
+-   We're **hosted** at [ShopOnline](https://mursaleemkhan8395.github.io/shoponline.com/) (We are currently facing some issues with registration/login, this will be fixed soon).
 
 ### An E-commerce platform in the form of a Web Application incorporating concepts of DBMS along with PHP, HTML, CSS.
 
