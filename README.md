@@ -17,10 +17,8 @@ The ShopOnline Web Application was developed using HTML, CSS, JavaScript, PHP, p
 
 Project maintainers:
 
--   Sudhay Senthilkumar ([@sudhay23](https://github.com/sudhay23))
--   Sandeep Rajakrishnan ([@san-coding](https://github.com/san-coding))
--   Raswanth R
--   Tarun.K.B
+-   Mursaleem khan ([@mohdkhan](https://github.com/MursaleemKhan8395))
+-   Ritu kumar ([@rupakrajput](https://github.com/Rupakrajput19)) 
 
 
 ## Screenshots
@@ -87,18 +85,3 @@ https://user-images.githubusercontent.com/51874681/136703411-5ef185d4-b12f-455d-
 
 https://user-images.githubusercontent.com/51874681/136703422-b82d0dcb-d00c-4091-89fa-ca3d0d1644f7.mp4
 
-
-
-
-
-## Contact Us
-
--   [Join Our Discord](https://discord.gg/yhtkaawfNq)
-
-## Installation
-
-See [Installation Guidelines](installation_guidelines.md)
-
-## Contributing
-
-We'd love to have contributors! If you're interested in contributing, take a look at our [CONTRIBUTING.md](./CONTRIBUTING.md)
